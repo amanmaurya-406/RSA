@@ -3,7 +3,10 @@ build/
 bin/
 
 # Data files
-data/
+*.cer
+*.key
+*.txt
+*.pem
 
 # VS Code settings
 .vscode/
