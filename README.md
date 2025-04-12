@@ -57,4 +57,4 @@ Execute ▶️
 
 ## Requirements
 
-- Libraries: OpenSSL (for some cryptographic functions), GMP (for large number calculations)
+- Libraries: OpenSSL (for encoding in `pem` format), GMP (for large number calculations)
